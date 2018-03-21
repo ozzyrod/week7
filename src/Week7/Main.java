@@ -109,8 +109,16 @@ public class Main {
 	 * Exercise 5
 	 *
 	 * Write a program that asks the user for the following:
-	 * 1. How many dice to roll (up to 6)?
-	 * 2. How many sides per die (all dice can be the same number of sides)?
-	 * 3. How many times to repeat rolling the dice?
+	 * 1. How many dice to roll? (up to 6)
+	 * 2. How many sides per die (maximum 10)? (all dice can be the same number of sides)
+	 * 3. How many times to repeat rolling the dice? (maximum 10000000)
+	 *
+	 * After all information has been received, simulate rolling the dice
+	 * the specified number of times and show the tallied results.
+	 *
+	 * When you show your results, show only the possible range of values based on
+	 * the user's input.
+	 *
+	 * Example: given 2 6-sided dice to roll, show tallies for the range of 2-12.
 	 */
 }
